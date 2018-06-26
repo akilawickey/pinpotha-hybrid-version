@@ -1,7 +1,7 @@
 {
-  "name": "Ionic-v2-Firebase",
-  "description": "Ionic-v2_Firebase",
-  "license": "Apache-2.0",
+  "name": "pinpotha",
+  "description": "pinpotha",
+  "license": "MIT",
   "scripts": {
     "build": "ionic-app-scripts build",
     "clean": "ionic-app-scripts clean",
